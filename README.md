@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhipJackWilly
 - 👀 I'm a noob nerd.
 - 🌱 I’m currently learning how the internet works
-- 📫 william@wuxn3d.com
+
 
 
 <!---
